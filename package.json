@@ -15,9 +15,6 @@
     "rotary",
     "form"
   ],
-  "peerDependencies": {
-    "react": "^16.3.0"
-  },
   "dependencies": {
     "d3-drag": "^1.2.1",
     "d3-scale": "^2.0.0",
